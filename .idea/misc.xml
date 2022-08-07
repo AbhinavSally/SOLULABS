@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/backdround.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/collection_sel.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/home_sel.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/ic_collection_selected.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/ic_collection_unselected.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/ic_home_selected.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/ic_home_unselected.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/ic_like_selected.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/ic_like_unselected.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/ic_mail.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/ic_notifications.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/ic_proced.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/ic_profile_selected.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/ic_profile_unselected.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/ic_rofile_selected.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/ic_scan_selected.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/ic_scan_unselected.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/ic_search.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/profile_sel.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/scan_sel.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/toolbar_backdround.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/drawable/wishlist_sel.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/layout/activity_scanner.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/layout/fragment_dashbord.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/layout/fragment_splash.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/layout/layout_loading_screen.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/layout/product_cell.xml" value="0.1" />
+        <entry key="..\:/Digital Munshi/munshuibolta/app/src/main/res/layout/toolbar.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "657261599816",
+    "project_id": "care-autos",
+    "storage_bucket": "care-autos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657261599816:android:ab4d3db1d168e2f2414c7d",
+        "android_client_info": {
+          "package_name": "com.appformers.careautos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657261599816-c8ce3hdnome2cufng7dvvcqr1km0ph3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI-F4oZ2OtwN8OQD41rd-OeEvnZoPxT4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657261599816-c8ce3hdnome2cufng7dvvcqr1km0ph3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657261599816:android:d541371dec7cf7a5414c7d",
+        "android_client_info": {
+          "package_name": "com.appformers.careautosvendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657261599816-c8ce3hdnome2cufng7dvvcqr1km0ph3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI-F4oZ2OtwN8OQD41rd-OeEvnZoPxT4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657261599816-c8ce3hdnome2cufng7dvvcqr1km0ph3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
